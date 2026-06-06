@@ -8,6 +8,8 @@ enabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: James-Yu.latex-workshop
+    uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
   - id: jeanp413.open-remote-ssh
     uuid: 9fc16cea-08e2-4ae5-bf75-224004d722ff
   - id: llvm-vs-code-extensions.vscode-clangd
@@ -20,6 +22,8 @@ enabled:
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-python-envs
     uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
   - id: rust-lang.rust-analyzer
     uuid: 06574cb4-e5dc-4631-8174-a543a4533621
   - id: zokugun.cron-tasks
