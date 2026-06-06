@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Light 2026",
+    "workbench.layoutControl.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "none",
+    // Latex settings
+    "workbench.editorAssociations": {
+        "*.pdf": "latex-workshop-pdf-hook",
+        "{git,gitlens,git-graph}:/**/*.{md,csv,svg}": "default",
+    },
+    "latex-workshop.latex.tools": [
+        {
+            "name": "xelatex",
+            "command": "xelatex",
+            "args": [
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "-file-line-error",
+                "-pdf",
+                "%DOC%",
+            ],
+        },
+    ],
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "xelatex",
+            "tools": [
+                "xelatex"
+            ],
+        },
+    ],
+    "[c]": {
+        "editor.tabSize": 2,
+    },
+    "[cpp]": {
+        "editor.tabSize": 2,
+    },
+    "security.workspace.trust.enabled": false,
+    "editor.fontSize": 13,
+}
