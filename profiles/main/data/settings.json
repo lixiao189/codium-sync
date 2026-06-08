@@ -1,10 +1,14 @@
 {
-    "workbench.colorTheme": "Light Modern",
     "workbench.layoutControl.enabled": false,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none",
     "security.workspace.trust.enabled": false,
     "editor.fontSize": 13,
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.navigationControl.enabled": false,
+    "window.commandCenter": false,
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
     
     // Latex settings
     "workbench.editorAssociations": {
